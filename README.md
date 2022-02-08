@@ -1,4 +1,4 @@
-# Hugo Parsa Forestry Starter
+# Café du Bon Etudiant Starter
 
 [Hugo Parsa Theme developed by Themefischer](https://github.com/themefisher/parsa-hugo) for Forestry CMS.
 
